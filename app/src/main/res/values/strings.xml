@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BelajarRetrofitKotlin</string>
+    <string name="api_key">bdff55d2671f2943f8aec04a676fed6f</string>
+    <string name="base_path_poster">https://image.tmdb.org/t/p/w500</string>
+</resources>
